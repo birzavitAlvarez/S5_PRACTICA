@@ -1,0 +1,7 @@
+POST http://localhost:8080/demo/add
+Content-Type: application/x-www-form-urlencoded
+
+name=Birza2
+&email=birza@idat.edu.pe
+
+###
