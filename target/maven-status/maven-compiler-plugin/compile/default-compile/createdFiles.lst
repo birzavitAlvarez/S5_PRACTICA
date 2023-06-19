@@ -1,0 +1,6 @@
+com\birzavit\restservice\User.class
+com\birzavit\restservice\RestserviceApplication.class
+com\birzavit\restservice\MainController.class
+com\birzavit\restservice\GreetingController.class
+com\birzavit\restservice\Greeting.class
+com\birzavit\restservice\UserRepository.class
